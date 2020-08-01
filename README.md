@@ -1,6 +1,6 @@
 ### Hey there! :relaxed:
 
-:man_technologist: I've always liked computers and I have read and followed technological advances since I was a teenager. To start a career in IT seemed to be a natural choice for me. However, I ended up studying Biological Sciences, because understanding about the natural world was another fascination I had. I continued my studies doing a master’s. In it, I took a Biostatistics class, where a professor presented some scripts written in R.
+:man_technologist: I've always liked computers and I've read and followed technological advances since I was a teenager. To start a career in IT seemed to be a natural choice for me. However, I ended up studying Biological Sciences, because understanding about the natural world was another fascination I had. I continued my studies doing a master’s. In it, I took a Biostatistics class, where a professor presented some scripts written in R.
 
 :bar_chart: It was while studying the syntax of that language that I noticed I found it quite easy for me to understand the logic behind that code. By the end of my master’s degree, I started teaching science and biology. However, since that first contact, I was not able to leave programming behind and I started studying other languages, such as Python, Java, and JavaScript.
 
